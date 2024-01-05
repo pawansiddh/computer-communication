@@ -1,0 +1,4 @@
+Thus we conclude our mini-project on Multiplayer Tic-Tac-Toe Game usingSocketProgramming in C++. We learnt multiple objectives as well as about networkconnection using TCP/IP protocol. We also learnt about the client side andserverside of processes running parellely. The project mainly enhances the focus ontheability to access the game through any remote location by using the IPaddressofthe player who started the game – ie – Server and using the method of
+acknowledgement and signal, starts the game once the Client enters the game. Future enhancements of the project are necessary and multiple support wouldbe
+30
+given to the players to enjoy the game with priority to the ease of access bytheuserusing Graphical User Interface aka GUI and building more strong connectionsthrough concepts of networking as well as to enhance the security by addingauthentication and validation process which makes sure the correct user has enteredfrom the client side.
